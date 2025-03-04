@@ -1,0 +1,454 @@
+[
+  {
+    "route": {
+      "from": "Chattogram",
+      "to": "Dhaka"
+    },
+    "trains": [
+      {
+        "name": "Subarna Express",
+        "trainNo": "701–702"
+      },
+      {
+        "name": "Mohanagar Express",
+        "trainNo": "721–722"
+      },
+      {
+        "name": "Shonar Bangla Express",
+        "trainNo": "787–788"
+      },
+      {
+        "name": "Chattala Express",
+        "trainNo": "801–802"
+      },
+      {
+        "name": "Express",
+        "trainNo": "811-812"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Cox's Bazar",
+      "to": "Dhaka"
+    },
+    "trains": [
+      {
+        "name": "Mohanagar (Morning/Night) Express",
+        "trainNo": "703–704"
+      },
+      {
+        "name": "Turna Express",
+        "trainNo": "741–742"
+      },
+      {
+        "name": "Cox's Bazar Express",
+        "trainNo": "813-814"
+      },
+      {
+        "name": "Parjatak Express",
+        "trainNo": "815-816"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Panchagarh"
+    },
+    "trains": [
+      {
+        "name": "Ekota Express",
+        "trainNo": "705–706"
+      },
+      {
+        "name": "Drutojan Express",
+        "trainNo": "757–758"
+      },
+      {
+        "name": "Panchagarh Express",
+        "trainNo": "793–794"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Dewanganj"
+    },
+    "trains": [
+      {
+        "name": "Tista Express",
+        "trainNo": "707–708"
+      },
+      {
+        "name": "Brahmaputra Express",
+        "trainNo": "743–744"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Sylhet"
+    },
+    "trains": [
+      {
+        "name": "Parabat Express",
+        "trainNo": "709–710"
+      },
+      {
+        "name": "Jayantika Express",
+        "trainNo": "717–718"
+      },
+      {
+        "name": "Upaban Express",
+        "trainNo": "739–740"
+      },
+      {
+        "name": "Kalni Express",
+        "trainNo": "773–774"
+      },
+      {
+        "name": "Tanguar Express",
+        "trainNo": "819-820"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Noakhali",
+      "to": "Dhaka"
+    },
+    "trains": [
+      {
+        "name": "Upakul Express",
+        "trainNo": "711–712"
+      },
+      {
+        "name": "Surbarnachar Express",
+        "trainNo": "817-818"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Santahar",
+      "to": "Panchargarh"
+    },
+    "trains": [
+      {
+        "name": "Karatoya Express",
+        "trainNo": "713–714"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Khulna",
+      "to": "Rajshahi"
+    },
+    "trains": [
+      {
+        "name": "Kapotaksha Express",
+        "trainNo": "715–716"
+      },
+      {
+        "name": "Sagardari Express",
+        "trainNo": "761–762"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Chattogram",
+      "to": "Sylhet"
+    },
+    "trains": [
+      {
+        "name": "Paharika Express",
+        "trainNo": "719–720"
+      },
+      {
+        "name": "Udayan Express",
+        "trainNo": "723–724"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Khulna",
+      "to": "Dhaka"
+    },
+    "trains": [
+      {
+        "name": "Sundarban Express",
+        "trainNo": "725–726"
+      },
+      {
+        "name": "Chitra Express",
+        "trainNo": "763–764"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Chilahati"
+    },
+    "trains": [
+      {
+        "name": "Nilsagar Express",
+        "trainNo": "765–766"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Santahar",
+      "to": "Panchagarh"
+    },
+    "trains": [
+      {
+        "name": "Dolonchapa Express",
+        "trainNo": "767–768"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Rajshahi",
+      "to": "Dhaka"
+    },
+    "trains": [
+      {
+        "name": "Silkcity Express",
+        "trainNo": "753–754"
+      },
+      {
+        "name": "Padma Express",
+        "trainNo": "759–760"
+      },
+      {
+        "name": "Dhumketu Express",
+        "trainNo": "769–770"
+      },
+      {
+        "name": "Madhumati Express",
+        "trainNo": "755–756"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Chapai Nawabganj",
+      "to": "Dhaka"
+    },
+    "trains": [
+      {
+        "name": "Banalata Express",
+        "trainNo": "791–792"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Khulna",
+      "to": "Chilahati"
+    },
+    "trains": [
+      {
+        "name": "Rupsha Express",
+        "trainNo": "727–728"
+      },
+      {
+        "name": "Simanta Express",
+        "trainNo": "747–748"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Cox's Bazar",
+      "to": "Chandpur"
+    },
+    "trains": [
+      {
+        "name": "Meghna Express",
+        "trainNo": "729–730"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Rajshahi",
+      "to": "Chilahati"
+    },
+    "trains": [
+      {
+        "name": "Barendra Express",
+        "trainNo": "731–732"
+      },
+      {
+        "name": "Titumir Express",
+        "trainNo": "733–734"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Tarakandi"
+    },
+    "trains": [
+      {
+        "name": "Agnibina Express",
+        "trainNo": "735–736"
+      },
+      {
+        "name": "Jamuna Express",
+        "trainNo": "745–746"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Kishoreganj"
+    },
+    "trains": [
+      {
+        "name": "Egarosindhur (Morning)",
+        "trainNo": "737–738"
+      },
+      {
+        "name": "Egarosindhur (Night) Express",
+        "trainNo": "749–750"
+      },
+      {
+        "name": "Kishoreganj Express",
+        "trainNo": "781–782"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Gobra",
+      "to": "Rajshahi"
+    },
+    "trains": [
+      {
+        "name": "Tungipara Express",
+        "trainNo": "783–784"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Chattogram",
+      "to": "Jamalpur"
+    },
+    "trains": [
+      {
+        "name": "Bijoy Express",
+        "trainNo": "785–786"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Mohanganj"
+    },
+    "trains": [
+      {
+        "name": "Mohanganj Express",
+        "trainNo": "789–790"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Benapole",
+      "to": "Dhaka"
+    },
+    "trains": [
+      {
+        "name": "Benapole Express",
+        "trainNo": "795–796"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Kurigram",
+      "to": "Dhaka"
+    },
+    "trains": [
+      {
+        "name": "Kurigram Express",
+        "trainNo": "797–798"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Bhuapur"
+    },
+    "trains": [
+      {
+        "name": "Jamalpur Express",
+        "trainNo": "799–800"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Rajshahi",
+      "to": "Panchagarh"
+    },
+    "trains": [
+      {
+        "name": "Banglabandha Express",
+        "trainNo": "803–804"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Chilahati",
+      "to": "Dhaka"
+    },
+    "trains": [
+      {
+        "name": "Chilahati Express",
+        "trainNo": "805-806"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Pabna"
+    },
+    "trains": [
+      {
+        "name": "Pabna Express",
+        "trainNo": "807-808"
+      }
+    ]
+  },
+  {
+    "route": {
+      "from": "Dhaka",
+      "to": "Lalmoni"
+    },
+    "trains": [
+      {
+        "name": "Burimari Express",
+        "trainNo": "809-810"
+      }
+    ]
+  }
+]
