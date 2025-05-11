@@ -1,5 +1,4 @@
 
-````markdown
 # All Trains In Bangladesh
 
 **bd_trains** is an open-source project aimed at compiling and maintaining data related to train services in Bangladesh. The repository currently includes a `trains.json` file, which is intended to store structured information about various train routes, schedules, and other relevant details.
@@ -17,7 +16,7 @@ To utilize the data:
 
    ```bash
    git clone https://github.com/abmomen/bd_trains.git
-````
+   ```
 
 2. **Navigate to the project directory:**
 
